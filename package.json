@@ -1,0 +1,15 @@
+{
+  "name": "m3-w2-d1-homework",
+  "version": "1.0.0",
+  "description": "MongoDB homework: statsdb / uscensus with Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Wuhao Wang",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.17.2"
+  }
+}
